@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervalculate",
+        "uuid": 25015725,
+        "checksum": "0hv8zb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
